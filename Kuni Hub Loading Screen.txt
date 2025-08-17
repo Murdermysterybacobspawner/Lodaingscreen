@@ -1,13 +1,4 @@
--- SKIDDED BY SIGMA @rizzify101
--- SKIDDED BY SIGMA @rizzify101
--- SKIDDED BY SIGMA @rizzify101
--- SKIDDED BY SIGMA @rizzify101
--- SKIDDED BY SIGMA @rizzify101
--- SKIDDED BY SIGMA @rizzify101
--- SKIDDED BY SIGMA @rizzify101
--- SKIDDED BY SIGMA @rizzify101
--- SKIDDED BY SIGMA @rizzify101
--- SKIDDED BY SIGMA @rizzify101
+
 
 local player = game.Players.LocalPlayer
 local playerGui = player:WaitForChild("PlayerGui")
@@ -149,14 +140,3 @@ task.delay(5, function()
 	blur:Destroy()
 	gui:Destroy()
 end)
-
--- SKIDDED BY SIGMA @rizzify101
--- SKIDDED BY SIGMA @rizzify101
--- SKIDDED BY SIGMA @rizzify101
--- SKIDDED BY SIGMA @rizzify101
--- SKIDDED BY SIGMA @rizzify101
--- SKIDDED BY SIGMA @rizzify101
--- SKIDDED BY SIGMA @rizzify101
--- SKIDDED BY SIGMA @rizzify101
--- SKIDDED BY SIGMA @rizzify101
--- SKIDDED BY SIGMA @rizzify101
